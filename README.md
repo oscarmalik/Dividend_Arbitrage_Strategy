@@ -20,7 +20,7 @@ The Dividend Arbitrage Program simplifies the process of identifying dividend ar
 
 ## Report
 
-The repository includes a comprehensive report titled ["Dividend Arbitrage: Understanding Its Application and Calculating Its Risk"](https://github.com/oscarmalik/Dividend_Arbitrage_Strategy/blob/main/Dividend_Arbitrage_Project_Report.pdf) This report covers the importance of dividend arbitrage, its practical application, and a detailed explanation of the provided function. It also provides insights into the complexity of the method, risk assessment, and key statistics.
+The repository includes a comprehensive report titled ["Dividend Arbitrage: Understanding Its Application and Calculating Its Risk"](https://github.com/oscarmalik/Dividend_Arbitrage_Strategy/blob/main/Dividend_Arbitrage_Project_Report.pdf). This report covers the importance of dividend arbitrage, its practical application, and a detailed explanation of the provided function. It also provides insights into the complexity of the method, risk assessment, and key statistics.
 
 ## Conclusion
 
