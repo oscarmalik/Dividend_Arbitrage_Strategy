@@ -1,4 +1,4 @@
-# Dividend Arbitrage Toolkit
+# Dividend Arbitrage Program
 
 ## Overview
 
@@ -10,7 +10,7 @@ Dividend arbitrage is a strategy where investors aim to profit from the differen
 
 ## Why Use This Toolkit?
 
-The Dividend Arbitrage Toolkit simplifies the process of identifying dividend arbitrage opportunities and assessing the safety of potential investments. It helps investors:
+The Dividend Arbitrage Program simplifies the process of identifying dividend arbitrage opportunities and assessing the safety of potential investments. It helps investors:
 
 - Identify stocks with upcoming ex-dividend dates.
 - Assess the safety of dividend stocks using a customizable risk tolerance questionnaire.
